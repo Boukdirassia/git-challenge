@@ -1,5 +1,6 @@
 # DevBook – Projet Collaboratif Git/GitHub
 
+Member 1 -------------------------------------
 ## Introduction
 Ce projet a pour objectif d’apprendre à collaborer avec Git et GitHub, même sans coder.  
 Il permet aux étudiants de découvrir les bonnes pratiques du travail en équipe, la gestion de versions, et la résolution de conflits.
@@ -9,8 +10,21 @@ Il permet aux étudiants de découvrir les bonnes pratiques du travail en équip
 - Gérer les branches, commits et pull requests
 - Apprendre à résoudre des conflits
 - Développer la communication technique
-# git-challenge
 
+Member 2 -------------------------------------
+C’est un outil incontournable dans le monde du développement moderne.
+
+Dans le cadre de ce projet collaboratif, chaque membre de l’équipe joue un rôle essentiel afin d’assurer la réussite du travail commun :
+
+Youssef (Membre 1) : Responsable de la rédaction de l’introduction et des objectifs du projet.
+
+Assia (Membre 2) : Chef de projet, chargée de la coordination générale, de l’organisation des tâches et du suivi de l’avancement.
+
+Yahya (Membre 3) : Responsable du contenu lié aux avantages de GitHub, en mettant en avant son importance pour la gestion de projets collaboratifs.
+
+Mohammed (Membre 4) : Responsable du partage des astuces Git, contribuant à améliorer l’efficacité et la collaboration au sein de l’équipe.
+
+Member 3 -------------------------------------
 ## Pourquoi GitHub est important
 
 GitHub est une plateforme essentielle pour les développeurs car elle permet de :
@@ -20,8 +34,6 @@ GitHub est une plateforme essentielle pour les développeurs car elle permet de 
 - Travailler en équipe grâce au système de branches et de pull requests.
 - Suivre les problèmes (issues) et gérer les tâches d’un projet.
 - Montrer son travail aux recruteurs ou entreprises grâce à un portfolio de projets publics.
-
-C’est un outil incontournable dans le monde du développement moderne.
 
 Member 4 -------------------------------------
 🧠 Astuces Git à connaître absolument
@@ -74,13 +86,4 @@ git clean -fd       # Supprime fichiers + dossiers
 git reflog
 🧭 Historique des HEADs. Très utile après un reset ou un rebase mal maîtrisé.
 
-Dans le cadre de ce projet collaboratif, chaque membre de l’équipe joue un rôle essentiel afin d’assurer la réussite du travail commun :
-
-Youssef (Membre 1) : Responsable de la rédaction de l’introduction et des objectifs du projet.
-
-Assia (Membre 2) : Chef de projet, chargée de la coordination générale, de l’organisation des tâches et du suivi de l’avancement.
-
-Yahya (Membre 3) : Responsable du contenu lié aux avantages de GitHub, en mettant en avant son importance pour la gestion de projets collaboratifs.
-
-Mohammed (Membre 4) : Responsable du partage des astuces Git, contribuant à améliorer l’efficacité et la collaboration au sein de l’équipe.
 
